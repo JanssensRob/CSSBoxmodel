@@ -1,0 +1,75 @@
+
+
+h1, h2, h3, p { 
+    color: rgb(0, 89, 255);
+}
+
+.black-border {
+    border: 5px solid rgb(222, 111, rgb(255, 1, 1));
+}
+
+body.index{
+    background-color: grey;
+    font-family: Verdana;
+    font-size: larger;
+    text-align: center;
+  }
+body.about{
+    background-color: lightgrey;
+    font-family: Verdana;
+    font-size: xx-large;
+    text-align: center;
+}
+.titel{
+    color:darkred;
+}
+.titel2{
+    color:white;
+}
+#italia{
+    background-color:red;
+}
+#austria{
+    background-color:purple;
+}
+#espana{
+    background-color:grey;
+}
+ul.ulnav{
+    list-style: none;
+    display: inline-flex;
+    margin:0 auto;
+    padding: 5px;
+}
+ul{
+    list-style-type: none;
+}
+#link{
+    border: 10px solid lightgrey;
+}
+
+#parag1{
+    color:black;
+}
+
+#parag2{
+    color:blue;
+}
+
+#Rob{
+    border: 15px dotted blue; 
+}
+#hoofd{
+    margin: 10px 15px 15px 15px;
+    background-color: rgb(231, 17, 17);
+}
+#content{
+    margin: 10px 15px 15px 15px;
+    background-color: white;
+
+}
+#voeter{
+    margin: 10px 15px 15px 15px;
+    background-color:lightblue;
+
+}
